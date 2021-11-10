@@ -229,9 +229,6 @@ body { font-family:Arial, Helvetica, sans-serif; }
 .block-slider .caption-group .primary{
 	color: #1bd172;
 }
-.block-slider .caption-group .caption{
-
-}
 
 /*----------------------
 [10. Block top seller ]
@@ -418,7 +415,6 @@ body { font-family:Arial, Helvetica, sans-serif; }
 .single-product {
   overflow: hidden;
 }
-.single-product:hover {}
 .single-product:hover .product-hover a.add-to-cart-link {top: 32%;}
 .single-product:hover .product-hover a.view-details-link {bottom: 32%;}
 .single-product:hover .product-hover:after{left: 0}
